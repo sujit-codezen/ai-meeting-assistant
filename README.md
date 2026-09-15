@@ -302,6 +302,31 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
+## 🗺️ Roadmap
+
+- [x] AI-powered meeting transcription
+- [x] Speaker diarization
+- [x] Action item extraction
+- [x] Decision tracking
+- [x] Semantic search with RAG
+- [x] Real-time meeting processing
+- [x] Docker deployment
+- [ ] Live meeting recording
+- [ ] Calendar integration
+- [ ] Email notifications for tasks
+- [ ] Slack/Teams integration
+
+---
+
+## 📞 Support
+
+If you have any questions or need help, feel free to reach out:
+
+- **Email**: sujit@codezen.dev
+- **GitHub Issues**: [Create an issue](https://github.com/sujit-codezen/ai-meeting-assistant/issues)
+
+---
+
 ## 🙏 Acknowledgments
 
 - [faster-whisper](https://github.com/SYSTRAN/faster-whisper) — Fast & accurate transcription
